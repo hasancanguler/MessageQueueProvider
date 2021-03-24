@@ -1,0 +1,9 @@
+C:\Users\Hasan\Desktop\Projeler\MessageQueueProvider\bin\Debug\netcoreapp3.1\MessageQueueProvider.deps.json
+C:\Users\Hasan\Desktop\Projeler\MessageQueueProvider\bin\Debug\netcoreapp3.1\MessageQueueProvider.dll
+C:\Users\Hasan\Desktop\Projeler\MessageQueueProvider\obj\Debug\netcoreapp3.1\MessageQueueProvider.csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\Projeler\MessageQueueProvider\obj\Debug\netcoreapp3.1\MessageQueueProvider.AssemblyInfoInputs.cache
+C:\Users\Hasan\Desktop\Projeler\MessageQueueProvider\obj\Debug\netcoreapp3.1\MessageQueueProvider.AssemblyInfo.cs
+C:\Users\Hasan\Desktop\Projeler\MessageQueueProvider\bin\Debug\netcoreapp3.1\MessageQueueProvider.pdb
+C:\Users\Hasan\Desktop\Projeler\MessageQueueProvider\obj\Debug\netcoreapp3.1\MessageQueueProvider.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\Projeler\MessageQueueProvider\obj\Debug\netcoreapp3.1\MessageQueueProvider.dll
+C:\Users\Hasan\Desktop\Projeler\MessageQueueProvider\obj\Debug\netcoreapp3.1\MessageQueueProvider.pdb
